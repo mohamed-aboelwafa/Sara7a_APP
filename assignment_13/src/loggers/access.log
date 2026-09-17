@@ -1,0 +1,2 @@
+::1 - - [08/Sep/2026:09:19:49 +0000] "POST /api/v1/auth/login HTTP/1.1" 201 560 "-" "bruno-runtime/4.1.0"
+::1 - - [08/Sep/2026:09:19:55 +0000] "POST /api/v1/auth/login HTTP/1.1" 201 560 "-" "bruno-runtime/4.1.0"
